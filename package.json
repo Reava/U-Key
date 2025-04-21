@@ -1,0 +1,19 @@
+{
+  "name": "chirp.reava.ukey",
+  "displayName": "U#Keypad",
+  "version": "1.0.0-pre.1",
+  "unity": "2022.3",
+  "description": "A modular keypad",
+  "author": {
+    "name": "Reava_",
+    "email": "reava.vr@gmail.com",
+    "url": "https://github.com/Reava"
+  },
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.4"
+  },
+    "legacyFolders": {
+        "Assets\\Reava_\\U#Keypad": ""
+    }
+}
