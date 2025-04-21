@@ -2,8 +2,6 @@
 
 ![keypad](https://user-images.githubusercontent.com/93742413/226099076-105fcbdf-e777-49a4-bdfc-deebb8ce7709.png)
 
-## Currently porting to VCC packages!
-
 # Easy to use & Drag and Drop
 
 This is a drag-and-drop Keypad/Passcode Prefab for VRChat worlds made in Unity **2019.4.31f1** and **SDK3** with Udon. 
