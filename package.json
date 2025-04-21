@@ -1,9 +1,9 @@
 {
   "name": "chirp.reava.ukey",
   "displayName": "U#Keypad",
-  "version": "1.0.0-pre.1",
+  "version": "0.4.0-pre.1",
   "unity": "2022.3",
-  "description": "A modular keypad",
+  "description": "This is a drag-and-drop Keypad/Passcode Prefab for VRChat using UdonSharp with modular features",
   "author": {
     "name": "Reava_",
     "email": "reava.vr@gmail.com",
