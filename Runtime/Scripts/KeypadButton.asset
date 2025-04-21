@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: KeypadButton
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: dc2047eab53a0b346a75b64bf5079f3e,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 553171908a5fffb4e9e4c81b5d0b8fdb, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: d33b7c5af94a95d43ba6277b544f2707, type: 3}
@@ -62,7 +61,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UwUtils.Keypad, Assembly-CSharp
+      Data: UwUtils.Keypad, chirp.reava.ukey
     - Name: 
       Entry: 8
       Data: 
