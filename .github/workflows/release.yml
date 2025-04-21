@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
 
 env:
-  releasePrefix: "UwUtils"
-  packageName: "chirp.reava.uwutils"
-  packagePath: "Packages/chirp.reava.uwutils"
+  releasePrefix: "U-Key"
+  packageName: "chirp.reava.ukey"
+  packagePath: "Packages/chirp.reava.ukey"
 
 jobs:
   build:
