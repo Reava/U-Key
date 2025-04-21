@@ -2,6 +2,8 @@
 
 ![keypad](https://user-images.githubusercontent.com/93742413/226099076-105fcbdf-e777-49a4-bdfc-deebb8ce7709.png)
 
+## Currently porting to VCC packages!
+
 # Easy to use & Drag and Drop
 
 This is a drag-and-drop Keypad/Passcode Prefab for VRChat worlds made in Unity **2019.4.31f1** and **SDK3** with Udon. 
@@ -13,9 +15,9 @@ There is also extensive debugging done with the logs to allow easy understanding
 
 ## **📥 Download:**
 
-**Note:** The Keypad has been rewritten into UdonSharp. Don't worry! You don't have to touch UdonSharp code I promise!
+**Note:** The Keypad has been written using UdonSharp but don't worry! You don't have to touch UdonSharp code I promise!
 
-1. Make sure you have UdonSharp 1.1.7 or higher installed via the [VCC](https://vcc.docs.vrchat.com/) (Projects > Manage project > Plus icon on the right of Udonsharp)
+1. Make sure you have VRC World SDK 3.7.4 or higher installed via the [VCC](https://vcc.docs.vrchat.com/) 
 2. Download & Import the keypad into your project
 3. Enjoy?
 
