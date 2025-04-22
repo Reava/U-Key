@@ -1,3 +1,11 @@
+
+<div align=left>
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/reava/U-Key/release.yml?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Reava/U-Key?color=blue&style=for-the-badge">
+  <a href="https://github.com/Reava/U-Key/releases/latest/"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/reava/U-Key?logo=unity&style=for-the-badge"></a>
+  <a href="https://github.com/Reava/U-Key/releases/latest/"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/reava/U-Key/total?color=blue&style=for-the-badge"></a>
+</div>
+
 # 🔒 **Keypad Prefab made with Udon for VRChat worlds**
 
 ![keypad](https://user-images.githubusercontent.com/93742413/226099076-105fcbdf-e777-49a4-bdfc-deebb8ce7709.png)
